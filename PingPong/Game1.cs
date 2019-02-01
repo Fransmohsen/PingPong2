@@ -19,7 +19,7 @@ namespace PingPong
         public static int ScreenWidth;
         public static int ScreenHeight;
         public static Random Random;
-       
+
 
         private Score _score;
         private List<Sprite> _sprites;
